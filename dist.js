@@ -1,6 +1,6 @@
 var meteorHack = {
   React: React
-}; // https://github.com/meteor/meteor/issues/4105
+};
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
 		module.exports = factory(require("React"));
@@ -4427,5 +4427,4 @@ return /******/ (function(modules) { // webpackBootstrap
 /***/ }
 /******/ ])
 });
-
 t = meteorHack.t;

@@ -1,7 +1,7 @@
 // Write your package code here!
 Package.describe({
   name: "firfi:tcomb-form",
-  version: "0.0.1",
+  version: "0.0.2",
   summary: "tcomb-form port for meteor",
   git: "https://github.com/firfi/tcomb-form-meteor/",
   documentation: "README.md"
