@@ -1,1 +1,2 @@
-https://github.com/gcanti/tcomb-form port for Meteor
+Moved as a fork, https://github.com/Firfi/tcomb-form-meteor
+
